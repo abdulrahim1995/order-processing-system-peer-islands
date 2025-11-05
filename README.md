@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # order-processing-system-peer-islands
 Spring Boot backend for E-commerce order management
-=======
-# Order Processing - Assignment
 
 ## Objective
 Build a backend for an E-commerce Order Processing System supporting order creation, retrieval, status updates, cancellation and a scheduled job to promote PENDING orders to PROCESSING every 5 minutes.
